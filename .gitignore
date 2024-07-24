@@ -3,3 +3,9 @@
 
 # ignore .csv files
 *.csv
+
+# ignore tableau workbook file
+*.twb
+
+# ignore readme.md on github, it is a file to present repository information and can only displayed nicely on github not local machine
+README.md
