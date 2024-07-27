@@ -17,4 +17,12 @@
 - mainly about how many beds a hospital has
 
 ### What we want to get from the data?
-- In a specific zip code, what's the list of hospitals ordered by rating from high to low
+- For patients, looking for a good hospital in neighborhood area
+- For hospitals, how to improve their service
+
+### Dashboard:
+- example dashboard from data wizardry:
+-   filter by state and hospital size
+-   hospital rating 9-10
+-   question delta from mean cohort, cohort hospital delta spread
+-   survey response rate, and # of completed surveys
