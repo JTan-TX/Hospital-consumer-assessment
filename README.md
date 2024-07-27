@@ -3,12 +3,18 @@
 > The raw data can be downloaded from [Data Wizardry website](https://datawizardry.academy/hcahps-patient-satisfaction-dashboard/) (signing up needed)
 
 ### Understand the data
-- Field information is consistent or not, for example telephone number, measurement_id vs question
-- What's answer percentage and what's survey response rate percentage, and how are they calculated?
+- Check whether the field information is consistent or not
+-   hospital basic information, such as facility id, facility name, address, zip code, telephone number
+- What are the questions in the survey
+- What's answer percentage and what's survey response rate percentage, and how are they calculated? (unknown)
+
+### Observations on hcahps data
+- data is clean, facility basic information is all consistent
+- questions are organized well
+- questions can be categorized to facility (cleanliness, quiet), communication (with doctors, nurses, and staff), service (get help in time)
+
+### Observations on hospital beds data
+- mainly about how many beds a hospital has
 
 ### What we want to get from the data?
 - In a specific zip code, what's the list of hospitals ordered by rating from high to low
-
-### Observations on hcahps_data
-- data is clean, facility basic information is all consistent
-- questions are organized well
