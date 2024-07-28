@@ -23,6 +23,6 @@
 ### Dashboard:
 - example dashboard from data wizardry:
 -   filter by state and hospital size
--   hospital rating 9-10
+-   define top box, hospital rating 9-10, contains always, usually
 -   question delta from mean cohort, cohort hospital delta spread
 -   survey response rate, and # of completed surveys
