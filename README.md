@@ -26,3 +26,10 @@
 -   define top box, hospital rating 9-10, contains always, usually
 -   question delta from mean cohort, cohort hospital delta spread
 -   survey response rate, and # of completed surveys
+
+
+### Issued encountered during project
+- One facility_name can be corresponding to several facility_id, making statistic value wrong
+- How to easily categorize questions to facility (cleanliness, quiet), communication (with doctors, nurses, and staff), service (get help in time)? Right now i can only think of manualy assign category to each question
+- How to adjust font color based on the darkness/lightness of its background
+- The spread dot that I want to highlight sometimes is hidden by other does of similar values
