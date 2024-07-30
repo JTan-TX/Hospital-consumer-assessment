@@ -1,6 +1,9 @@
 # Hospital Rating Dashboard
+
+link by markdown
 [View dashboard on tableau public](https://public.tableau.com/app/profile/jin.tan7372/viz/Hospitalratingboard/Dashboard1)
 
+link by html
 <a href="https://public.tableau.com/app/profile/jin.tan7372/viz/Hospitalratingboard/Dashboard1" target="_blank">View dashboard on tableau public</a>
 
 
