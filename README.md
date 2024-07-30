@@ -1,6 +1,10 @@
 # Hospital Rating Dashboard
 [View dashboard on tableau public](https://public.tableau.com/app/profile/jin.tan7372/viz/Hospitalratingboard/Dashboard1)
 
+<a href="https://public.tableau.com/app/profile/jin.tan7372/viz/Hospitalratingboard/Dashboard1" target="_blank">View dashboard on tableau public</a>
+
+
+
 
 > This tableau dashboard is inspired by a [youtube video from Data Wizardry](https://www.youtube.com/watch?v=6YwwHfxAfZI&list=PLGjBYLuhsuwdmh_gnMs_56t22P8L2vW72&index=3)
 >
